@@ -1,0 +1,13 @@
+In everyday life we listen how the applications and projects ar being developed using different programming language
+many of students do different programming language , but we don't notice one thing that what programming actually is
+for knowing about programming language we need to understand program and language saperately.
+language:-A languge is way through which one object(person,animal,machine) communicate with another object.
+technically, In term of computer science a language is way to give instruction to computer which it can understand.
+But wait, we all knows that we give instructions to the computer in english language but computer doesn't understand
+the english language ,it only understand binary language.
+than how does it understand the language we tell it and perform the task according to us.
+Now here comes the concept of programming.
+we make a translator which is been programmed(instructions are written to perform a specific task)to which it convers our language into binary and binary language into ours.
+so before learning the program we knew about what programming actually is.
+example of programing language:-
+C,C++,C#,java,kotlin,python, ruby etc. 
